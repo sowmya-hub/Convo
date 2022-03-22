@@ -4,10 +4,10 @@ A web-based chat application that enables multiple users to interact with one an
  
 # Features
 
-Manages a chat room service and its user interface
-one-on-one chat supported
-many-many chat supported
-simultaneous activity across separate chat rooms supported
+- Manages a chat room service and its user interface
+- one-on-one chat supported
+- many-many chat supported
+- simultaneous activity across separate chat rooms supported
 
 ## Tools used:
 ```
